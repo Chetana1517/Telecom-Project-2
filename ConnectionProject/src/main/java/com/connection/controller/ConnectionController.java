@@ -8,5 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ConnectionController {
 	
 	//GET API to fetch all available connection.
-	
+	public void getConnection() {
+		//this is get connection  method
+	}
 }
